@@ -1,4 +1,4 @@
 binpack
 =======
 
-Bin Packing
+Bin Packing in Haskell
